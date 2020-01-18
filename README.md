@@ -23,3 +23,11 @@ The dataset given contains details about organic chemical compounds including th
 3. Precision: 0.99 ( >99%)
 4. Recall: 1.0 (100%)
 5. F1 score: 0.9950 (99.5%)
+6. The model accuracy curve:
+
+  <img src = "Images/acc_graph.JPG" >
+ 
+ 7. The model loss curve:
+ 
+  <img src = "Images/loss_graph.JPG" >
+ 
