@@ -33,4 +33,5 @@ The dataset given contains details about organic chemical compounds including th
  
 # Output:
 The h5 weight file is inside checkpoints folder.
+
 The model file is model.py as in repository.
